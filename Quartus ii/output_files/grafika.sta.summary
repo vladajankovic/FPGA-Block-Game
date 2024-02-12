@@ -1,0 +1,1517 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -8.960
+TNS   : -7770.073
+
+Type  : Slow 1200mV 85C Model Setup 'Level4:inst31|blok14sema:inst7|Block14:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.619
+TNS   : -86.609
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok115sema:inst12|Block115:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.616
+TNS   : -84.468
+
+Type  : Slow 1200mV 85C Model Setup 'Level4:inst31|blok74sema:inst31|Block74:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.524
+TNS   : -80.083
+
+Type  : Slow 1200mV 85C Model Setup 'Level4:inst31|blok94sema:inst33|Block94:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.362
+TNS   : -79.464
+
+Type  : Slow 1200mV 85C Model Setup 'Level4:inst31|blok34sema:inst15|Block34:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.225
+TNS   : -81.801
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok75sema:inst8|Block75:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.207
+TNS   : -78.628
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok25sema:inst3|Block25:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.207
+TNS   : -76.614
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok55sema:inst6|Block55:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.181
+TNS   : -76.815
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok15sema:inst21|Block15:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.179
+TNS   : -80.383
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok95sema:inst10|Block95:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.153
+TNS   : -77.008
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok65sema:inst7|Block65:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.126
+TNS   : -76.735
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok35sema:inst4|Block35:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.059
+TNS   : -77.609
+
+Type  : Slow 1200mV 85C Model Setup 'Level4:inst31|blok84sema:inst32|Block84:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -5.033
+TNS   : -75.900
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok125sema:inst15|Block125:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.970
+TNS   : -76.714
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok85sema:inst9|Block85:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.847
+TNS   : -74.038
+
+Type  : Slow 1200mV 85C Model Setup 'Level2:inst7|blok32sema:inst4|Block32:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.840
+TNS   : -70.955
+
+Type  : Slow 1200mV 85C Model Setup 'strelica:inst13|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.634
+TNS   : -71.701
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok105sema:inst11|Block105:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.600
+TNS   : -68.636
+
+Type  : Slow 1200mV 85C Model Setup 'Level2:inst7|blok62sema:inst8|Block62:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.536
+TNS   : -73.531
+
+Type  : Slow 1200mV 85C Model Setup 'Level4:inst31|blok24sema:inst10|Block24:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.504
+TNS   : -71.070
+
+Type  : Slow 1200mV 85C Model Setup 'Level3:inst25|blok23sema:inst2|Block23:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.491
+TNS   : -70.918
+
+Type  : Slow 1200mV 85C Model Setup 'Level4:inst31|blok54sema:inst24|Block54:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.482
+TNS   : -74.681
+
+Type  : Slow 1200mV 85C Model Setup 'Level3:inst25|blok53sema:inst5|Block53:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.472
+TNS   : -71.246
+
+Type  : Slow 1200mV 85C Model Setup 'Level3:inst25|blok103sema:inst12|Block103:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.417
+TNS   : -70.362
+
+Type  : Slow 1200mV 85C Model Setup 'Level4:inst31|blok64sema:inst29|Block64:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.391
+TNS   : -69.754
+
+Type  : Slow 1200mV 85C Model Setup 'Level3:inst25|blok33sema:inst3|Block33:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.366
+TNS   : -70.468
+
+Type  : Slow 1200mV 85C Model Setup 'Level2:inst7|blok12sema:inst2|Block12:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.365
+TNS   : -68.284
+
+Type  : Slow 1200mV 85C Model Setup 'Level3:inst25|blok83sema:inst9|Block83:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.310
+TNS   : -69.002
+
+Type  : Slow 1200mV 85C Model Setup 'Level5:inst32|blok45sema:inst5|Block45:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.275
+TNS   : -63.534
+
+Type  : Slow 1200mV 85C Model Setup 'Level2:inst7|blok52sema:inst6|Block52:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.269
+TNS   : -67.384
+
+Type  : Slow 1200mV 85C Model Setup 'Level4:inst31|blok114sema:inst35|Block114:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.262
+TNS   : -65.770
+
+Type  : Slow 1200mV 85C Model Setup 'Level2:inst7|blok42sema:inst5|Block42:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.253
+TNS   : -66.143
+
+Type  : Slow 1200mV 85C Model Setup 'Level3:inst25|blok13sema:inst10|Block13:inst6|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.247
+TNS   : -66.368
+
+Type  : Slow 1200mV 85C Model Setup 'Level2:inst7|blok22sema:inst3|Block22:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.171
+TNS   : -63.726
+
+Type  : Slow 1200mV 85C Model Setup 'Level2:inst7|blok72sema:inst9|Block72:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.153
+TNS   : -65.439
+
+Type  : Slow 1200mV 85C Model Setup 'Level4:inst31|blok44sema:inst21|Block44:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.106
+TNS   : -64.049
+
+Type  : Slow 1200mV 85C Model Setup 'Level3:inst25|blok93sema:inst11|Block93:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.016
+TNS   : -60.743
+
+Type  : Slow 1200mV 85C Model Setup 'Level4:inst31|blok104sema:inst34|Block104:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.850
+TNS   : -62.259
+
+Type  : Slow 1200mV 85C Model Setup 'Level3:inst25|blok43sema:inst4|Block43:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.841
+TNS   : -61.853
+
+Type  : Slow 1200mV 85C Model Setup 'Level3:inst25|blok73sema:inst8|Block73:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.750
+TNS   : -61.781
+
+Type  : Slow 1200mV 85C Model Setup 'Level3:inst25|blok63sema:inst6|Block63:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.600
+TNS   : -59.914
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : -0.286
+TNS   : -2.631
+
+Type  : Slow 1200mV 85C Model Hold 'Level3:inst25|blok63sema:inst6|Block63:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level3:inst25|blok73sema:inst8|Block73:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level3:inst25|blok83sema:inst9|Block83:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level2:inst7|blok32sema:inst4|Block32:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level2:inst7|blok62sema:inst8|Block62:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level3:inst25|blok23sema:inst2|Block23:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.347
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level3:inst25|blok53sema:inst5|Block53:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.347
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level3:inst25|blok103sema:inst12|Block103:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level2:inst7|blok12sema:inst2|Block12:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level3:inst25|blok13sema:inst10|Block13:inst6|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level3:inst25|blok43sema:inst4|Block43:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level3:inst25|blok93sema:inst11|Block93:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level2:inst7|blok22sema:inst3|Block22:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level2:inst7|blok42sema:inst5|Block42:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level2:inst7|blok72sema:inst9|Block72:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level3:inst25|blok33sema:inst3|Block33:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level4:inst31|blok104sema:inst34|Block104:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level4:inst31|blok114sema:inst35|Block114:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level4:inst31|blok14sema:inst7|Block14:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level4:inst31|blok24sema:inst10|Block24:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level4:inst31|blok34sema:inst15|Block34:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level4:inst31|blok44sema:inst21|Block44:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level4:inst31|blok54sema:inst24|Block54:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level4:inst31|blok64sema:inst29|Block64:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level4:inst31|blok74sema:inst31|Block74:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level4:inst31|blok84sema:inst32|Block84:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level4:inst31|blok94sema:inst33|Block94:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok105sema:inst11|Block105:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok115sema:inst12|Block115:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok125sema:inst15|Block125:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok15sema:inst21|Block15:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok25sema:inst3|Block25:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok35sema:inst4|Block35:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok45sema:inst5|Block45:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok55sema:inst6|Block55:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok65sema:inst7|Block65:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok75sema:inst8|Block75:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok85sema:inst9|Block85:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level5:inst32|blok95sema:inst10|Block95:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'strelica:inst13|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.382
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Level2:inst7|blok52sema:inst6|Block52:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.543
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -1408.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level2:inst7|blok12sema:inst2|Block12:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level2:inst7|blok22sema:inst3|Block22:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level2:inst7|blok32sema:inst4|Block32:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level2:inst7|blok42sema:inst5|Block42:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level2:inst7|blok52sema:inst6|Block52:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level2:inst7|blok62sema:inst8|Block62:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level2:inst7|blok72sema:inst9|Block72:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level3:inst25|blok103sema:inst12|Block103:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level3:inst25|blok13sema:inst10|Block13:inst6|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level3:inst25|blok23sema:inst2|Block23:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level3:inst25|blok33sema:inst3|Block33:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level3:inst25|blok43sema:inst4|Block43:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level3:inst25|blok53sema:inst5|Block53:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level3:inst25|blok63sema:inst6|Block63:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level3:inst25|blok73sema:inst8|Block73:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level3:inst25|blok83sema:inst9|Block83:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level3:inst25|blok93sema:inst11|Block93:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level4:inst31|blok104sema:inst34|Block104:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level4:inst31|blok114sema:inst35|Block114:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level4:inst31|blok14sema:inst7|Block14:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level4:inst31|blok24sema:inst10|Block24:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level4:inst31|blok34sema:inst15|Block34:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level4:inst31|blok44sema:inst21|Block44:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level4:inst31|blok54sema:inst24|Block54:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level4:inst31|blok64sema:inst29|Block64:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level4:inst31|blok74sema:inst31|Block74:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level4:inst31|blok84sema:inst32|Block84:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level4:inst31|blok94sema:inst33|Block94:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok105sema:inst11|Block105:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok115sema:inst12|Block115:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok125sema:inst15|Block125:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok15sema:inst21|Block15:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok25sema:inst3|Block25:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok35sema:inst4|Block35:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok45sema:inst5|Block45:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok55sema:inst6|Block55:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok65sema:inst7|Block65:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok75sema:inst8|Block75:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok85sema:inst9|Block85:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Level5:inst32|blok95sema:inst10|Block95:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'strelica:inst13|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -7.990
+TNS   : -6883.605
+
+Type  : Slow 1200mV 0C Model Setup 'Level4:inst31|blok14sema:inst7|Block14:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.972
+TNS   : -76.031
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok115sema:inst12|Block115:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.926
+TNS   : -73.686
+
+Type  : Slow 1200mV 0C Model Setup 'Level4:inst31|blok74sema:inst31|Block74:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.872
+TNS   : -70.065
+
+Type  : Slow 1200mV 0C Model Setup 'Level4:inst31|blok94sema:inst33|Block94:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.744
+TNS   : -69.272
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok75sema:inst8|Block75:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.652
+TNS   : -68.918
+
+Type  : Slow 1200mV 0C Model Setup 'Level4:inst31|blok34sema:inst15|Block34:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.624
+TNS   : -71.695
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok55sema:inst6|Block55:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.589
+TNS   : -67.026
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok25sema:inst3|Block25:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.583
+TNS   : -67.091
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok95sema:inst10|Block95:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.536
+TNS   : -67.156
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok15sema:inst21|Block15:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.535
+TNS   : -70.008
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok65sema:inst7|Block65:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.531
+TNS   : -67.267
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok35sema:inst4|Block35:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.460
+TNS   : -67.680
+
+Type  : Slow 1200mV 0C Model Setup 'Level4:inst31|blok84sema:inst32|Block84:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.419
+TNS   : -65.842
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok125sema:inst15|Block125:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.369
+TNS   : -67.088
+
+Type  : Slow 1200mV 0C Model Setup 'Level2:inst7|blok32sema:inst4|Block32:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.306
+TNS   : -62.265
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok85sema:inst9|Block85:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.282
+TNS   : -64.579
+
+Type  : Slow 1200mV 0C Model Setup 'strelica:inst13|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.046
+TNS   : -62.440
+
+Type  : Slow 1200mV 0C Model Setup 'Level2:inst7|blok62sema:inst8|Block62:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.045
+TNS   : -64.937
+
+Type  : Slow 1200mV 0C Model Setup 'Level3:inst25|blok23sema:inst2|Block23:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -4.012
+TNS   : -62.318
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok105sema:inst11|Block105:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.986
+TNS   : -59.348
+
+Type  : Slow 1200mV 0C Model Setup 'Level3:inst25|blok53sema:inst5|Block53:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.983
+TNS   : -62.392
+
+Type  : Slow 1200mV 0C Model Setup 'Level4:inst31|blok24sema:inst10|Block24:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.960
+TNS   : -62.293
+
+Type  : Slow 1200mV 0C Model Setup 'Level4:inst31|blok54sema:inst24|Block54:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.943
+TNS   : -65.113
+
+Type  : Slow 1200mV 0C Model Setup 'Level3:inst25|blok103sema:inst12|Block103:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.919
+TNS   : -61.726
+
+Type  : Slow 1200mV 0C Model Setup 'Level4:inst31|blok64sema:inst29|Block64:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.900
+TNS   : -60.913
+
+Type  : Slow 1200mV 0C Model Setup 'Level3:inst25|blok33sema:inst3|Block33:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.887
+TNS   : -61.494
+
+Type  : Slow 1200mV 0C Model Setup 'Level2:inst7|blok12sema:inst2|Block12:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.862
+TNS   : -59.689
+
+Type  : Slow 1200mV 0C Model Setup 'Level3:inst25|blok83sema:inst9|Block83:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.823
+TNS   : -60.968
+
+Type  : Slow 1200mV 0C Model Setup 'Level2:inst7|blok52sema:inst6|Block52:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.791
+TNS   : -58.902
+
+Type  : Slow 1200mV 0C Model Setup 'Level2:inst7|blok42sema:inst5|Block42:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.775
+TNS   : -57.755
+
+Type  : Slow 1200mV 0C Model Setup 'Level4:inst31|blok114sema:inst35|Block114:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.752
+TNS   : -57.342
+
+Type  : Slow 1200mV 0C Model Setup 'Level5:inst32|blok45sema:inst5|Block45:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.743
+TNS   : -54.957
+
+Type  : Slow 1200mV 0C Model Setup 'Level3:inst25|blok13sema:inst10|Block13:inst6|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.735
+TNS   : -58.056
+
+Type  : Slow 1200mV 0C Model Setup 'Level2:inst7|blok22sema:inst3|Block22:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.712
+TNS   : -55.377
+
+Type  : Slow 1200mV 0C Model Setup 'Level2:inst7|blok72sema:inst9|Block72:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.703
+TNS   : -57.698
+
+Type  : Slow 1200mV 0C Model Setup 'Level4:inst31|blok44sema:inst21|Block44:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.557
+TNS   : -55.263
+
+Type  : Slow 1200mV 0C Model Setup 'Level3:inst25|blok93sema:inst11|Block93:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.554
+TNS   : -52.653
+
+Type  : Slow 1200mV 0C Model Setup 'Level3:inst25|blok43sema:inst4|Block43:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.417
+TNS   : -54.191
+
+Type  : Slow 1200mV 0C Model Setup 'Level4:inst31|blok104sema:inst34|Block104:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.408
+TNS   : -54.797
+
+Type  : Slow 1200mV 0C Model Setup 'Level3:inst25|blok73sema:inst8|Block73:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.339
+TNS   : -53.977
+
+Type  : Slow 1200mV 0C Model Setup 'Level3:inst25|blok63sema:inst6|Block63:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -3.177
+TNS   : -52.100
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : -0.304
+TNS   : -3.611
+
+Type  : Slow 1200mV 0C Model Hold 'Level3:inst25|blok83sema:inst9|Block83:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level2:inst7|blok32sema:inst4|Block32:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.300
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level3:inst25|blok23sema:inst2|Block23:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.300
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level3:inst25|blok53sema:inst5|Block53:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.300
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level3:inst25|blok63sema:inst6|Block63:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.300
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level3:inst25|blok73sema:inst8|Block73:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.300
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level2:inst7|blok62sema:inst8|Block62:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.301
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level3:inst25|blok43sema:inst4|Block43:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level2:inst7|blok12sema:inst2|Block12:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level2:inst7|blok42sema:inst5|Block42:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level3:inst25|blok33sema:inst3|Block33:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level4:inst31|blok104sema:inst34|Block104:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level2:inst7|blok22sema:inst3|Block22:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level2:inst7|blok72sema:inst9|Block72:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level3:inst25|blok103sema:inst12|Block103:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level3:inst25|blok13sema:inst10|Block13:inst6|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level3:inst25|blok93sema:inst11|Block93:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level4:inst31|blok114sema:inst35|Block114:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level4:inst31|blok14sema:inst7|Block14:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level4:inst31|blok24sema:inst10|Block24:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level4:inst31|blok34sema:inst15|Block34:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level4:inst31|blok44sema:inst21|Block44:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level4:inst31|blok54sema:inst24|Block54:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level4:inst31|blok64sema:inst29|Block64:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level4:inst31|blok74sema:inst31|Block74:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level4:inst31|blok84sema:inst32|Block84:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level4:inst31|blok94sema:inst33|Block94:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok105sema:inst11|Block105:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok115sema:inst12|Block115:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok125sema:inst15|Block125:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok15sema:inst21|Block15:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok25sema:inst3|Block25:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok35sema:inst4|Block35:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok45sema:inst5|Block45:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok55sema:inst6|Block55:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok65sema:inst7|Block65:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok75sema:inst8|Block75:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok85sema:inst9|Block85:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level5:inst32|blok95sema:inst10|Block95:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'strelica:inst13|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Level2:inst7|blok52sema:inst6|Block52:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.490
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -1408.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok12sema:inst2|Block12:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok22sema:inst3|Block22:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok32sema:inst4|Block32:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok42sema:inst5|Block42:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok52sema:inst6|Block52:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok62sema:inst8|Block62:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok72sema:inst9|Block72:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok103sema:inst12|Block103:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok13sema:inst10|Block13:inst6|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok23sema:inst2|Block23:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok33sema:inst3|Block33:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok43sema:inst4|Block43:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok53sema:inst5|Block53:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok63sema:inst6|Block63:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok73sema:inst8|Block73:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok83sema:inst9|Block83:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok93sema:inst11|Block93:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok104sema:inst34|Block104:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok114sema:inst35|Block114:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok14sema:inst7|Block14:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok24sema:inst10|Block24:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok34sema:inst15|Block34:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok44sema:inst21|Block44:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok54sema:inst24|Block54:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok64sema:inst29|Block64:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok74sema:inst31|Block74:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok84sema:inst32|Block84:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok94sema:inst33|Block94:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok105sema:inst11|Block105:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok115sema:inst12|Block115:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok125sema:inst15|Block125:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok15sema:inst21|Block15:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok25sema:inst3|Block25:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok35sema:inst4|Block35:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok45sema:inst5|Block45:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok55sema:inst6|Block55:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok65sema:inst7|Block65:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok75sema:inst8|Block75:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok85sema:inst9|Block85:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok95sema:inst10|Block95:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'strelica:inst13|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -4.860
+TNS   : -4017.231
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok115sema:inst12|Block115:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.920
+TNS   : -40.266
+
+Type  : Fast 1200mV 0C Model Setup 'Level4:inst31|blok14sema:inst7|Block14:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.889
+TNS   : -41.444
+
+Type  : Fast 1200mV 0C Model Setup 'Level4:inst31|blok74sema:inst31|Block74:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.810
+TNS   : -37.418
+
+Type  : Fast 1200mV 0C Model Setup 'Level4:inst31|blok94sema:inst33|Block94:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.754
+TNS   : -37.033
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok25sema:inst3|Block25:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.693
+TNS   : -35.274
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok75sema:inst8|Block75:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.673
+TNS   : -36.650
+
+Type  : Fast 1200mV 0C Model Setup 'Level4:inst31|blok34sema:inst15|Block34:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.646
+TNS   : -38.828
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok55sema:inst6|Block55:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.624
+TNS   : -35.265
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok95sema:inst10|Block95:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.618
+TNS   : -35.699
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok65sema:inst7|Block65:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.585
+TNS   : -35.243
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok15sema:inst21|Block15:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.573
+TNS   : -37.271
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok35sema:inst4|Block35:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.541
+TNS   : -35.829
+
+Type  : Fast 1200mV 0C Model Setup 'Level4:inst31|blok84sema:inst32|Block84:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.497
+TNS   : -34.781
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok125sema:inst15|Block125:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.471
+TNS   : -35.372
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok85sema:inst9|Block85:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.452
+TNS   : -34.385
+
+Type  : Fast 1200mV 0C Model Setup 'Level2:inst7|blok32sema:inst4|Block32:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.390
+TNS   : -31.796
+
+Type  : Fast 1200mV 0C Model Setup 'strelica:inst13|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.279
+TNS   : -34.331
+
+Type  : Fast 1200mV 0C Model Setup 'Level2:inst7|blok62sema:inst8|Block62:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.268
+TNS   : -33.418
+
+Type  : Fast 1200mV 0C Model Setup 'Level4:inst31|blok24sema:inst10|Block24:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.255
+TNS   : -32.145
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok105sema:inst11|Block105:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.218
+TNS   : -30.478
+
+Type  : Fast 1200mV 0C Model Setup 'Level4:inst31|blok54sema:inst24|Block54:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.200
+TNS   : -34.245
+
+Type  : Fast 1200mV 0C Model Setup 'Level3:inst25|blok53sema:inst5|Block53:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.170
+TNS   : -31.902
+
+Type  : Fast 1200mV 0C Model Setup 'Level4:inst31|blok64sema:inst29|Block64:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.151
+TNS   : -31.534
+
+Type  : Fast 1200mV 0C Model Setup 'Level3:inst25|blok23sema:inst2|Block23:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.141
+TNS   : -31.625
+
+Type  : Fast 1200mV 0C Model Setup 'Level2:inst7|blok42sema:inst5|Block42:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.137
+TNS   : -29.247
+
+Type  : Fast 1200mV 0C Model Setup 'Level2:inst7|blok12sema:inst2|Block12:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.117
+TNS   : -30.201
+
+Type  : Fast 1200mV 0C Model Setup 'Level3:inst25|blok103sema:inst12|Block103:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.116
+TNS   : -31.243
+
+Type  : Fast 1200mV 0C Model Setup 'Level3:inst25|blok33sema:inst3|Block33:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.103
+TNS   : -31.851
+
+Type  : Fast 1200mV 0C Model Setup 'Level2:inst7|blok52sema:inst6|Block52:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.089
+TNS   : -30.017
+
+Type  : Fast 1200mV 0C Model Setup 'Level4:inst31|blok114sema:inst35|Block114:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.061
+TNS   : -29.072
+
+Type  : Fast 1200mV 0C Model Setup 'Level2:inst7|blok22sema:inst3|Block22:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.056
+TNS   : -27.551
+
+Type  : Fast 1200mV 0C Model Setup 'Level3:inst25|blok83sema:inst9|Block83:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.042
+TNS   : -30.282
+
+Type  : Fast 1200mV 0C Model Setup 'Level2:inst7|blok72sema:inst9|Block72:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.037
+TNS   : -28.819
+
+Type  : Fast 1200mV 0C Model Setup 'Level3:inst25|blok13sema:inst10|Block13:inst6|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.013
+TNS   : -29.034
+
+Type  : Fast 1200mV 0C Model Setup 'Level5:inst32|blok45sema:inst5|Block45:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -2.009
+TNS   : -27.161
+
+Type  : Fast 1200mV 0C Model Setup 'Level4:inst31|blok44sema:inst21|Block44:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.919
+TNS   : -27.598
+
+Type  : Fast 1200mV 0C Model Setup 'Level3:inst25|blok93sema:inst11|Block93:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.879
+TNS   : -25.329
+
+Type  : Fast 1200mV 0C Model Setup 'Level3:inst25|blok43sema:inst4|Block43:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.818
+TNS   : -26.250
+
+Type  : Fast 1200mV 0C Model Setup 'Level4:inst31|blok104sema:inst34|Block104:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.782
+TNS   : -26.547
+
+Type  : Fast 1200mV 0C Model Setup 'Level3:inst25|blok73sema:inst8|Block73:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.724
+TNS   : -26.390
+
+Type  : Fast 1200mV 0C Model Setup 'Level3:inst25|blok63sema:inst6|Block63:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.723
+TNS   : -25.512
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : -0.190
+TNS   : -2.639
+
+Type  : Fast 1200mV 0C Model Hold 'Level3:inst25|blok63sema:inst6|Block63:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level2:inst7|blok32sema:inst4|Block32:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level2:inst7|blok62sema:inst8|Block62:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level3:inst25|blok23sema:inst2|Block23:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level3:inst25|blok53sema:inst5|Block53:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level3:inst25|blok83sema:inst9|Block83:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level3:inst25|blok73sema:inst8|Block73:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level3:inst25|blok33sema:inst3|Block33:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level2:inst7|blok12sema:inst2|Block12:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level2:inst7|blok72sema:inst9|Block72:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level3:inst25|blok103sema:inst12|Block103:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level3:inst25|blok13sema:inst10|Block13:inst6|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level3:inst25|blok93sema:inst11|Block93:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level4:inst31|blok114sema:inst35|Block114:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level2:inst7|blok22sema:inst3|Block22:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level2:inst7|blok42sema:inst5|Block42:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level3:inst25|blok43sema:inst4|Block43:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level4:inst31|blok104sema:inst34|Block104:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level4:inst31|blok14sema:inst7|Block14:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level4:inst31|blok24sema:inst10|Block24:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level4:inst31|blok34sema:inst15|Block34:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level4:inst31|blok44sema:inst21|Block44:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level4:inst31|blok54sema:inst24|Block54:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level4:inst31|blok64sema:inst29|Block64:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level4:inst31|blok74sema:inst31|Block74:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level4:inst31|blok84sema:inst32|Block84:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level4:inst31|blok94sema:inst33|Block94:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok105sema:inst11|Block105:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok115sema:inst12|Block115:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok125sema:inst15|Block125:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok15sema:inst21|Block15:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok25sema:inst3|Block25:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok35sema:inst4|Block35:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok45sema:inst5|Block45:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok55sema:inst6|Block55:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok65sema:inst7|Block65:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok75sema:inst8|Block75:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok85sema:inst9|Block85:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level5:inst32|blok95sema:inst10|Block95:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'strelica:inst13|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Level2:inst7|blok52sema:inst6|Block52:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : 0.282
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -1505.483
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok12sema:inst2|Block12:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok22sema:inst3|Block22:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok32sema:inst4|Block32:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok42sema:inst5|Block42:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok52sema:inst6|Block52:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok62sema:inst8|Block62:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level2:inst7|blok72sema:inst9|Block72:inst5|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok103sema:inst12|Block103:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok13sema:inst10|Block13:inst6|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok23sema:inst2|Block23:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok33sema:inst3|Block33:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok43sema:inst4|Block43:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok53sema:inst5|Block53:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok63sema:inst6|Block63:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok73sema:inst8|Block73:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok83sema:inst9|Block83:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level3:inst25|blok93sema:inst11|Block93:inst1|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok104sema:inst34|Block104:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok114sema:inst35|Block114:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok14sema:inst7|Block14:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok24sema:inst10|Block24:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok34sema:inst15|Block34:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok44sema:inst21|Block44:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok54sema:inst24|Block54:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok64sema:inst29|Block64:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok74sema:inst31|Block74:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok84sema:inst32|Block84:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level4:inst31|blok94sema:inst33|Block94:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok105sema:inst11|Block105:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok115sema:inst12|Block115:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok125sema:inst15|Block125:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok15sema:inst21|Block15:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok25sema:inst3|Block25:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok35sema:inst4|Block35:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok45sema:inst5|Block45:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok55sema:inst6|Block55:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok65sema:inst7|Block65:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok75sema:inst8|Block75:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok85sema:inst9|Block85:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Level5:inst32|blok95sema:inst10|Block95:inst|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -21.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'strelica:inst13|CLK_DIVIDER:inst4|out_clk_next'
+Slack : -1.000
+TNS   : -20.000
+
+------------------------------------------------------------

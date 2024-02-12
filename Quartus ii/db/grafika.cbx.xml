@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="grafika">
+		<CBX_INST_ENTRY INSTANCE_NAME="|grafika|Binary2BCD:inst42|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_gfh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|grafika|Binary2BCD:inst43|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_gfh.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
